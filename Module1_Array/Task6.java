@@ -1,3 +1,7 @@
+
+// implementation of stack class using array
+
+
 class Stack {
     int[] arr;
     int top;
